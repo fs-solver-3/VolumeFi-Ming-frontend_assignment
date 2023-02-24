@@ -1,0 +1,50 @@
+.headerContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 50px;
+}
+.appNav {
+  display: flex;
+  align-items: center;
+}
+.logo img {
+  height: 50px;
+}
+
+.buttonContainer {
+  padding: 0px 50px;
+}
+.buttonContainer span {
+  font-family: worksan-regular;
+  color: #98a1c0;
+}
+span.pageButtonBold {
+  color: #ffffff;
+  font-family: worksan-bold;
+}
+
+.buttonContainer .btn:hover {
+  background-color: rgba(153, 161, 189, 0.0784313725490196);
+  border-radius: 10px;
+}
+
+.connectButton {
+  background-color: #bee719;
+  font-family: worksan-bold;
+}
+.connectButton:hover {
+  background-color: #98a1c0;
+}
+.walletContainer {
+  border: 1px solid #ffffff;
+  border-radius: 5px;
+  padding-left: 20px;
+}
+.walletContainer .ethIcon {
+  width: 30px;
+}
+.walletContainer span {
+  color: #ffffff;
+  padding: 0px 12px;
+}
