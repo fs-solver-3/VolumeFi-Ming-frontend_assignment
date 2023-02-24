@@ -65,6 +65,11 @@ const GÖRLICoins = [
     abbr: "UNI",
     address: "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
   },
+  {
+    name: "VolumeFi Token",
+    abbr: "VLFI",
+    address: "0xbA40C9ed9763C33A2c2b7E84641fc6608A94f691",
+  },
 ];
 
 const COINS = new Map();

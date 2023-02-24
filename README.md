@@ -1,11 +1,11 @@
 # NOTE: Background and Contracts
 
 - Use ReactJS for the project, with the EthersJS module to connect to the blockchain via metamask in the browser, and Material-UI for the frontend.
-- VolumeFi Token(VLFI) Contract Address:
-- Uniswap Router:
-- Uniswap Liquidity Pool:
+- VolumeFi Token(VLFI) Contract Address: `0xbA40C9ed9763C33A2c2b7E84641fc6608A94f691`
+- Uniswap Router: `0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D`
+- Uniswap Liquidity Pool: [https://app.uniswap.org/#/pool]
 
-Publishes to [https://]()
+Publishes to [https://volume-fi-ming-frontend-assignment-q2so.vercel.app/]()
 
 ## Available Scripts
 
